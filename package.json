@@ -1,0 +1,5 @@
+{
+    "scripts": {
+        "grammar": "nearleyc grammar.ne -o ./grammar/grammar.js"
+    }
+}
